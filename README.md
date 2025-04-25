@@ -26,7 +26,7 @@ Neden O(n log n) adımda biter? Çünkü ekleme ya da çıkarma dahi yapılsa He
 
 ### Uzay Karmaşıklığı
 - **Auxiliary Space**: O(1)
-Introduction to Algorithms isimli kitapta 396. Sf. da Zamanda ve mekanda önemli önemli asimptotik tasarruf sağladığından bahsetmektedir. Asimptotik verimlilik, bir algoritmanın girdi boyutu sonsuza doğru büyüdükçe nasıl performans gösterdiğini ifade eder. İlgili kitabı aliaamohamedali kullanıcı isimli Github hesabı Algorithms adlı reposu ile paylaşmaktadır. 
+Introduction to Algorithms isimli kitapta 396. Sf. da Zamanda ve mekanda önemli önemli asimptotik tasarruf sağladığından bahsetmektedir. Asimptotik verimlilik, bir algoritmanın girdi boyutu sonsuza doğru büyüdükçe nasıl performans gösterdiğini ifade eder.
 Heap Sort, yerinde (in-place) çalışır ve sabit miktarda ekstra bellek kullanır. Bu özellik, büyük veri setleriyle çalışırken önemli bir avantaj sağlar.
 
 ## 🕒 Ne Zaman ve Neden Kullanılır?
@@ -72,7 +72,7 @@ Heap Sort şu durumlarda tercih edilir:
 
 ### Dezavantajlar
 
-- ***Algorithms*, Fourth Edition Kitap sf.342, PDF sf.355**: Mcdonoughd kullanıcı isimli Github hesabı CS2223 reposu ile paylaştığı Robert Sedgewick and Kevin Wayne imzalı bahsi geçen kitapta kullanım yönü ile diğer sıralamalara göre kullanım alanı özellikle aynı değere sahip elemanların sırasını korumaz, yani kararlı değil (Unstable). 
+- ***Algorithms*, Fourth Edition Kitap sf.342, PDF sf.355**: Kullanım yönü ile diğer sıralamalara göre kullanım alanı özellikle aynı değere sahip elemanların sırasını korumaz, yani kararlı değil (Unstable). 
 - **Pratik Uygulamalarda Yavaşlık**: Genellikle Quick Sort ve Merge Sort gibi diğer O(n log n) algoritmalardan daha yavaş çalışır, çünkü sabit faktörleri daha yüksektir.
 - **Önbellek Kullanımı**: Heap yapısı, rastgele erişim modeliyle çalıştığından, modern CPU önbelleklerinde verimsiz olabilir.
 - **Uygulaması Karmaşık**: Quicksort gibi bazı alternatiflere göre uygulaması daha karmaşıktır.
@@ -351,5 +351,3 @@ int main() {
 - [Binary Heap - Wikipedia](https://en.wikipedia.org/wiki/Binary_heap)
 - [Sadi Evren Şeker YT](https://www.youtube.com/@Sadievrenseker_BK)
 
-## 🚨 Önemli Not
-- Kaynaklar arasında gösterilen kitaplar herkese açık platformlarda yazıda bahsi geçen kullanıcılar tarafından sunulmuştur. Sorunlarınız ve yasal sorularınız için dağıtıcı konumunda olan ilgili kullanıcılar ile iletişime geçmeniz gerekmektedir. 
