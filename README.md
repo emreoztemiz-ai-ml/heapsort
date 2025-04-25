@@ -350,4 +350,6 @@ int main() {
 - [Heap Sort - GeeksforGeeks](https://www.geeksforgeeks.org/heap-sort/)
 - [Binary Heap - Wikipedia](https://en.wikipedia.org/wiki/Binary_heap)
 - [Sadi Evren Şeker YT](https://www.youtube.com/@Sadievrenseker_BK)
+- [Markdown Kullanımı](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+:man_technologist: :blush: Bilgi paylaştıkça çoğalır. :blush: :man_technologist: Bu arada görülen emojiler için  [Markdown da kullanılabilecek Emoji Listesi ](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#symbols)
