@@ -1,3 +1,5 @@
+![HeapSihirbazi SVG](https://raw.githubusercontent.com/emreoztemiz-ai-ml/heapsort/b8e1ca188c52833bb2f0d6529331ce215a874ad9/heapsort.svg)
+
 # Heap Sort Algoritması
 
 ## 📚 Algoritmanın Tanımı
