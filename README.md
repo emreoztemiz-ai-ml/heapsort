@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emreoztemiz-ai-ml/heapsort/b8e1ca188c52833bb2f0d6529331ce215a874ad9/heapsort.svg" alt="HeapSihirbazi SVG" width="500">
+  <img src="https://raw.githubusercontent.com/emreoztemiz-ai-ml/heapsort/b8e1ca188c52833bb2f0d6529331ce215a874ad9/heapsort.svg" alt="HeapSihirbazi SVG" width="100%" height="100%">
 </p>
 
 # Heap Sort Algoritması
